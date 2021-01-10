@@ -1,2 +1,2 @@
 # leti_autopilots
-Homeworks
+Homeworks for autopilots course
